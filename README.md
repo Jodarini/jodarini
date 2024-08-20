@@ -5,7 +5,7 @@ I'm Jose, Frontend developer from <img src="https://github.com/Jodarini/jodarini
 
 
 
-### Here are some things i know how to code with
+### Some tech I code with:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
