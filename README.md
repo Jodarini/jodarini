@@ -7,6 +7,8 @@ I'm Jose, Frontend developer from <img src="https://github.com/Jodarini/jodarini
 
 ### Some tech I code with:
 <p>
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next-000000?style=flat&logo=nextdotjs&logoColor=white" />
+
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
